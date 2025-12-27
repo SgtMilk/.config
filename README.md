@@ -12,3 +12,7 @@ fi
 ```
 
 This will allow you to start tmux as you start a new zsh shell.
+
+You will also need to install two different things from the internet:
+1. Download the latest release from ![Nord Theme](https://github.com/nordtheme/iterm2) and import the profile in iterm2.
+2. Download a ![nerd font](https://www.nerdfonts.com/font-downloads) (I usually use Hack) and install the font.

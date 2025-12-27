@@ -8,7 +8,7 @@ return {
 				multilines = {
 					enabled = true,
 				},
-				enable_on_insert = true,
+				enable_in_insert = true,
 			},
 		})
 		vim.diagnostic.config({ virtual_text = false }) -- Disable Neovim's default virtual text diagnostics
